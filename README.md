@@ -10,7 +10,7 @@ Boost productivity using the Pomodoro Technique, alternating 25-minute focused w
 
 ## Features
 
-- Clean, minimalist interface
+- Clean, minimalist interface (250x200 pixels)
 - Customizable work and break durations
 - Stay-on-top option for easy visibility
 - Draggable window
