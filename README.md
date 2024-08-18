@@ -6,7 +6,6 @@ Boost productivity using the Pomodoro Technique, alternating 25-minute focused w
 ![image](https://github.com/user-attachments/assets/b389e598-6db2-428f-9216-02f38f5c50a9)
 ![image](https://github.com/user-attachments/assets/8f2888f2-5563-4088-a796-fb37b8cb23a1)
 ![image](https://github.com/user-attachments/assets/d957b89f-82f9-4257-bd48-24db4436f45d)
-![image](https://github.com/user-attachments/assets/0774c809-f43b-4006-8ff8-ae2e9913ff6d)
 
 ## Features
 
